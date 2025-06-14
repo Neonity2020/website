@@ -28,9 +28,9 @@
     "@floating-ui/dom": "^1.6.5",
     "@floating-ui/react": "^0.27.0",
     "@lezer/highlight": "^1.2.1",
-    "@milkdown/crepe": "7.13.0",
-    "@milkdown/kit": "7.13.0",
-    "@milkdown/react": "7.13.0",
+    "@milkdown/crepe": "7.13.1",
+    "@milkdown/kit": "7.13.1",
+    "@milkdown/react": "7.13.1",
     "@prosemirror-adapter/react": "^0.4.0",
     "@radix-ui/react-accordion": "^1.1.1",
     "@radix-ui/react-popover": "^1.0.5",
@@ -40,8 +40,8 @@
     "@tailwindcss/postcss": "^4.1.7",
     "@types/lodash.debounce": "^4.0.7",
     "@types/lodash.throttle": "^4.1.9",
-    "@types/node": "22.15.30",
-    "@types/react": "19.1.6",
+    "@types/node": "22.15.31",
+    "@types/react": "19.1.8",
     "@types/react-dom": "19.1.6",
     "@uiw/codemirror-theme-eclipse": "^4.23.0",
     "@uiw/codemirror-theme-nord": "^4.23.12",
@@ -73,7 +73,7 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.1",
     "@eslint/js": "^9.27.0",
-    "eslint": "9.28.0",
+    "eslint": "9.29.0",
     "eslint-config-next": "15.3.3",
     "eslint-config-prettier": "^10.0.1",
     "eslint-plugin-perfectionist": "^4.13.0",
@@ -106,5 +106,5 @@
       "string.prototype.trimend": "npm:@nolyfill/string.prototype.trimend@^1"
     }
   },
-  "packageManager": "pnpm@10.11.1"
+  "packageManager": "pnpm@10.12.1"
 }
